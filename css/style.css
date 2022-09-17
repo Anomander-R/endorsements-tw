@@ -660,6 +660,10 @@ video {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
+.place-content-center {
+  place-content: center;
+}
+
 .gap-5 {
   gap: 1.25rem;
 }
@@ -761,6 +765,10 @@ video {
 
 .underline-offset-4 {
   text-underline-offset: 4px;
+}
+
+.underline-offset-2 {
+  text-underline-offset: 2px;
 }
 
 .opacity-40 {
