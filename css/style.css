@@ -642,6 +642,14 @@ video {
   max-width: 80rem;
 }
 
+.max-w-6xl {
+  max-width: 72rem;
+}
+
+.max-w-5xl {
+  max-width: 64rem;
+}
+
 .scale-50 {
   --tw-scale-x: .5;
   --tw-scale-y: .5;
