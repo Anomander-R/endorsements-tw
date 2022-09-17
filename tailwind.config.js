@@ -13,6 +13,11 @@ module.exports = {
       }
     },
   },
+  variants: {
+    extend: {
+      translate: ['group-hover', 'hover'],
+    },
+  },
   plugins: [
     require('@tailwindcss/line-clamp')
   ],
